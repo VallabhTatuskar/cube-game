@@ -86,4 +86,4 @@ None
 
 ## Author
 
-Developed by **<Vallabh Tatuskar>**
+Developed by Vallabh Tatuskar
